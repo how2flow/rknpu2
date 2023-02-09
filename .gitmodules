@@ -1,0 +1,3 @@
+[submodule "examples/3rdparty/rga/upstream/librga"]
+	path = examples/3rdparty/rga/upstream/librga
+	url = https://github.com/airockchip/librga.git
